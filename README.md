@@ -1,4 +1,4 @@
-# Batch Email Sender
+# Personalized Email Automation
 
 ## Description
 This project automates the process of sending personalized emails in batches to a list of contacts stored in a CSV file. It customizes each email with the recipient's name and company, sends emails in batches of 50, and tracks progress using a batch number stored in a text file. The script ensures email delivery via a secure SMTP server and handles errors, making it suitable for automated email campaigns or outreach.
