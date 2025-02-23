@@ -24,6 +24,4 @@ This project automates the process of sending personalized emails in batches to 
 ```python
 your_email = "your email"
 your_password = "your password"
-
-## run script
-python send_emails.py
+5. RUN python send_emails.py
